@@ -36,3 +36,10 @@ https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
 	- Random Forest is not great for classification as decision trees overfit the model greatly. Therefore, some of the features which will appear important for RF might not appear significant for other models. However, feature X7, X11, X158, X92 appears to be important for all the models.
 
 
+### Team Members:
+1. Patrick Parham
+2. Tanay Mukherjee
+
+
+## Submission to:
+Prof. Kamiar Rahnama Rad
