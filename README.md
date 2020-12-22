@@ -41,5 +41,5 @@ https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
 2. Tanay Mukherjee
 
 
-## Submission to:
+### Submission to:
 Prof. Kamiar Rahnama Rad
